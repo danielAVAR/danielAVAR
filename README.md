@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from Guatemala</h3>
+<h3 align="center">A passionate student developer from Guatemala</h3>
 
   ![](hot.gif)
 
