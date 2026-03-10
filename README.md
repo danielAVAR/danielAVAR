@@ -16,8 +16,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielavar&show_icons=true&locale=en&layout=compact" alt="danielavar" /></p>
 
+![monkey-monkey-dancing](https://github.com/user-attachments/assets/d02e2a06-e007-45ff-b252-19056a195e1a)
 
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/03336ce2-d59d-4490-a540-8ac2bb815941" />
+
 
 <!---
 danielAVAR/danielAVAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
