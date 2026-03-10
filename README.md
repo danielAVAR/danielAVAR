@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **NOTHING**
+- 🔭 I’m currently working on **NOTHING** ![](hot.gif)
 
-- 🌱 I’m currently learning **Python, Github**
+- 🌱 I’m currently learning **Python, Github** ![](hot.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
