@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Guatemala</h3>
 
-
+  ![](hot.gif)
 
 - 🔭 I’m currently working on **NOTHING** ![](hot.gif)
 
@@ -37,7 +37,6 @@
 ![monkey-monkey-dancing](https://github.com/user-attachments/assets/d02e2a06-e007-45ff-b252-19056a195e1a)
 ![monkey-monkey-dancing](https://github.com/user-attachments/assets/d02e2a06-e007-45ff-b252-19056a195e1a)
 
-![](flames.gif)
 <!---
 danielAVAR/danielAVAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
