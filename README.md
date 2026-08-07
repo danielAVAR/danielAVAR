@@ -14,17 +14,17 @@
   <img src="https://komarev.com/ghpvc/?username={{USUARIO_GITHUB}}&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
 </div>
 
-<h1 align="center">Hola, soy {{NOMBRE_COMPLETO}}</h1>
+<h1 align="center">Hola, soy Daniel Aguilar</h1>
 
 <p align="center">
-  <strong>{{TITULAR_PROFESIONAL}}</strong>
+  <strong>Ingeniero de software full stack y diseñador de productos digitales</strong>
   <br />
-  {{RESUMEN_PROFESIONAL}}
+  Construyo productos digitales de principio a fin, desde el diseño de interfaces hasta el código final. 
 </p>
 
 <div align="center">
   <a href="https://github.com/{{USUARIO_GITHUB}}">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines={{TYPING_LINE_1}};{{TYPING_LINE_2}};{{TYPING_LINE_3}};{{TYPING_LINE_4}}" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines={{ENGINEER}};{{SOFTWARE}};{{FULL_STACK}};{{DESIGNER}}" alt="Typing SVG" />
   </a>
 </div>
 
@@ -92,6 +92,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
