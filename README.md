@@ -12,6 +12,14 @@
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=danielAVAR&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+  
+<div align="center">
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-aguilar-32a7a9424/)
+[![Email](https://img.shields.io/badge/Email-Contacto-9C52E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielaguilar5502@gmail.com)
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Sí-22c55e?style=flat-square)
+
 </div>
 
 <h1 align="center">Hola, soy Daniel Aguilar</h1>
