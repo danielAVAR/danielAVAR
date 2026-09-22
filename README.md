@@ -92,11 +92,11 @@
     </td>
     <td width="33%">
       <h3>Backend y datos</h3>
-      <p>JavaScript (en desarrollo)<br />Próximamente</p>
+      <p>JavaScript, Nodejs, POSTGRESQL, MySQL</p>
     </td>
     <td width="33%">
       <h3>Herramientas</h3>
-      <p>Git, GitHub, n8n</p>
+      <p>Git, GitHub, n8n, obsidian</p>
     </td>
   </tr>
 </table>
