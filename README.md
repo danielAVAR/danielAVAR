@@ -74,7 +74,7 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Stack-1f2937?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Frontend-Stack-1f2937?style=flat-square"/>
   <img src="https://img.shields.io/badge/Backend-Stack-1f2937?style=flat-square" alt="Backend" />
   <img src="https://img.shields.io/badge/Data-Databases-1f2937?style=flat-square" alt="Data" />
   <img src="https://img.shields.io/badge/Tools-Workflow-1f2937?style=flat-square" alt="Tools" />
