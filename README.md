@@ -78,6 +78,12 @@
   <img src="https://img.shields.io/badge/Backend-Stack-1f2937?style=flat-square" alt="Backend" />
   <img src="https://img.shields.io/badge/Data-Databases-1f2937?style=flat-square" alt="Data" />
   <img src="https://img.shields.io/badge/Tools-Workflow-1f2937?style=flat-square" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Backend"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="Data"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="Data"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50 alt="backend"/>
+  <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="50" alt ="tools"/>
+</p>
 </div>
 
 ---
