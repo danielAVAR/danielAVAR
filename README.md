@@ -141,9 +141,8 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=danielAVAR&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielAVAR&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
-</div>
+
+
 
 ---
 
